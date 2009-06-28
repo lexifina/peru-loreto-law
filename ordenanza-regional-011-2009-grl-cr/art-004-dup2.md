@@ -1,0 +1,1 @@
+Artículo Cuarto.- AUTORIZAR a la Secretaría del Consejo Regional, disponer la publicación de la presente Ordenanza Regional en el Diario Oficial El Peruano, en el diario de mayor circulación de la Región y en el Portal Web del Gobierno Regional de Loreto: www.regionloreto. gob.pe.

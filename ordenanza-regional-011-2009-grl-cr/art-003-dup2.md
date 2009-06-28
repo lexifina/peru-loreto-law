@@ -1,0 +1,3 @@
+Artículo Tercero.- INCORPORAR las Disposiciones Finales siguientes a la Ordenanza Regional Nº 009-2006-CR/GRL.
+Primera.- Encárguese a la Oficina de Cooperación Internacional coordinar con el PROCREL y solicitar su opinión técnica favorable para viabilizar la ejecución de los proyectos de conservación en el marco de los objetivos del PROCREL.
+Segunda.- Deléguese al PROCREL las funciones establecidas en los literales d), h) e i) del artículo 82º del Reglamento de Organización y Funciones del Gobierno Regional asignadas a la Gerencia de Recursos Naturales y Gestión del Medio Ambiente del Gobierno Regional de Loreto.
