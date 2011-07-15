@@ -1,0 +1,3 @@
+Artículo 5º.- Del Plan de Transporte Forestal
+El Plan de Transporte Forestal es una declaración jurada simple que contiene la información del transporte de los productos forestales al estado natural, debiendo incluir en ella la fecha de transporte, el lugar de embarque, sea este el Patio de Trozas u otra área habilitada para la concentración y almacenamiento de productos forestales al estado natural, y desembarque e información del medio de transporte.
+La presentación del Plan de Transporte Forestal no excluye ni exime del cumplimiento de las demás obligaciones establecidas por la legislación forestal.
