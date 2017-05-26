@@ -1,0 +1,1 @@
+Artículo 3º.- ENCARGAR, a la Secretaría del Consejo Regional de Loreto, disponer la publicación de la presente Modificación e Incorporación de artículos de la Ordenanza Regional 005-2014-GRL-CR, en el Diario Oficial “El Peruano”, Diario de mayor circulación de la Región y en el portal web del Gobierno Regional de Loreto: wwww. regionloreto.gob.pe.
