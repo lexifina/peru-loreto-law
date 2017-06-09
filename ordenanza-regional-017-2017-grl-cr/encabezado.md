@@ -1,0 +1,18 @@
+ORDENANZA REGIONAL
+Nº 017-2017-GRL-CR
+Villa Belén, 10 de mayo del 2017
+EL GOBERNADOR REGIONAL DE LORETO
+POR CUANTO:
+De conformidad con lo previsto en los artículos 191º de la Constitución Política del Estado, modificada por la Ley de Reforma Constitucional, del Capítulo XIV del Título IV sobre la Descentralización – Ley Nº 27680; La Ley de Bases de la descentralización – Ley Nº 27783, la Ley Orgánica de Gobiernos Regionales – Ley Nº 27867, sus modificatorias – Ley Nº 27902; Ley Nº 28013; Ley Nº 28926; Ley Nº 28961; Ley Nº 28968 y Ley Nº 29053 y demás normas complementarias.
+CONSIDERANDO:
+Que, la Constitución Política del Estado, en su artículo 191º, y la Ley Orgánica de Gobiernos Regionales, en el artículo 2º, establecen que los gobiernos regionales tienen autonomía política, económica y administrativa en asuntos de su competencia;
+Que, la Ley Nº 29768 - Ley de Mancomunidad Regional, en su artículo 2º, señala que la mancomunidad regional es el acuerdo voluntario de dos o más gobiernos regionales que se unen para la prestación conjunta de servicios públicos, cofinanciamiento o inversión en la ejecución de obras, que promueven la integración, el desarrollo regional y la participación de la sociedad, coadyuvando al proceso de regionalización; y, en su artículo 3º, establece que la mancomunidad regional es una persona jurídica de derecho público y constituye pliego presupuestal;
+Que, el numeral 10.5 del artículo 10º del Reglamento de la Ley de Mancomunidad Regional, aprobado mediante Decreto Supremo Nº 050-2013-PCM, establece el procedimiento para la constitución de las mancomunidades regionales, precisando que mediante ordenanza regional se aprueba la constitución de la Mancomunidad Regional, ratificando el contenido del Acta de Constitución, su Estatuto y la designación del primer Presidente del Comité Ejecutivo y del primer Gerente General; asimismo, se establece que el Acta de Constitución y el Estatuto de la Mancomunidad Regional forman parte de la ordenanza regional que los ratifica;
+Que, mediante Informe Técnico de fecha 15 de setiembre de 2016 elaborado con apoyo de Pro Gobernabilidad, se declara la viabilidad para la constitución de la “MANCOMUNIDAD REGIONAL MACRO REGIÓN NOR ORIENTE DEL PERÚ”;
+Que, el equipo técnico de los Gobiernos Regionales participantes, elaboró un proyecto de Estatuto para la “Mancomunidad Regional Macro Región Nor Oriente del Perú”, que consta de siete Títulos y treinta y cuatro artículos.
+Que, en la sesión de fecha 30 de setiembre de 2016, los señores Gobernadores de los Gobiernos Regionales de Amazonas, Cajamarca, La Libertad, Lambayeque, Loreto, Piura, San Martín y Tumbes acordaron la constitución de la “MANCOMUNIDAD REGIONAL MACRO REGIÓN NOR ORIENTE DEL PERÚ”, asimismo, acordaron la aprobación de su Estatuto, la elección del primer Presidente del Comité Ejecutivo y la designación del primer Gerente General.
+Que, de conformidad con lo establecido por la Constitución Política del Perú, la Ley Orgánica de Gobiernos Regionales - Ley Nº 27867, la Ley de Mancomunidad Regional - Ley Nº 29768, el Reglamento de la Ley Nº 29768 – aprobado por Decreto Supremo Nº 050-2013-PCM y el Informe Técnico “Mancomunidad Regional Macro Región Nor Oriente del Perú”.
+Que, estando a lo acordado y aprobado por UNANIMIDAD, en Segunda Sesión Ordinaria de fecha 10 de Mayo del 2017, con dispensa del trámite de lectura y aprobación del Acta, el Consejo Regional del Gobierno Regional de Loreto, en uso de sus facultades y atribuciones conferidas por la Constitución Política del Perú y la Ley Orgánica de los Gobiernos Regionales;
+HA DADO LA ORDENANZA REGIONAL SIGUIENTE:
+ORDENANZA QUE APRUEBA LA CONSTITUCIÓN DE LA “MANCOMUNIDAD REGIONAL MACRO
+REGIÓN NOR ORIENTE DEL PERÚ”
