@@ -1,0 +1,1 @@
+Artículo 2º.- DISPONER, que la Gerencia General Regional juntamente con la Gerencia Regional de Desarrollo Económico, Gerencia Regional del Ambiente, Gerencia Regional de Infraestructura, Dirección Regional de Energía y Minas y demás Entes Regionales implementen la presente Ordenanza Regional, quedando subsistente lo demás que contiene.
