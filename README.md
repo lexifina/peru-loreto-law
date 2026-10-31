@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-87 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+105 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -99,6 +99,24 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-005-2016-grl-cr/` | Ordenanza Regional N° 005-2016-GRL-CR: Aprueban Convocatoria de Audiencia Pública Regional de Rendición de Cuentas, II Semestre Año Fiscal 2015 | in force 9 March 2016 |
 | `ordenanza-regional-012-2015-grl-cr/` | Ordenanza Regional N° 012-2015-GRL-CR: Aprueban creación de la Autoridad Regional Ambiental de Loreto - ARA LORETO | in force 14 November 2015 |
 | `ordenanza-regional-009-2007-grl-cr/` | Ordenanza Regional N° 009-2007-GRL-CR: Aprueban modificación del TUPA del Gobierno Regional de Loreto | in force 8 May 2007 |
+| `ordenanza-regional-020-2019-grl-cr/` | Ordenanza Regional N° 020-2019-GRL-CR: Modifican la conformación del Grupo Técnico Regional de Humedales de Loreto | in force 8 January 2020 |
+| `ordenanza-regional-019-2019-grl-cr/` | Ordenanza Regional N° 019-2019-GRL-CR: Ordenanza que aprueba la Constitución de la "Mancomunidad Regional Amazónica" | in force 29 December 2019 |
+| `ordenanza-regional-011-2019-grl-cr/` | Ordenanza Regional N° 011-2019-GRL-CR: Ordenanza Regional que ratifica el "Plan de Acción Regional de Seguridad Ciudadana - Loreto 2019" | in force 15 August 2019 |
+| `ordenanza-regional-006-2019-grl-cr/` | Ordenanza Regional N° 006-2019-GRL-CR: Aprueban la Ordenanza Regional para creación y conformación de la instancia regional de concertación intergubernamental e… | in force 4 July 2019 |
+| `ordenanza-regional-027-2018-grl-cr/` | Ordenanza Regional N° 027-2018-GRL-CR: Aprueban Cuadro para Asignación de Personal - CAP Provisional de la Dirección Regional de Salud Loreto, sus diversas Rede… | in force 28 October 2018 |
+| `ordenanza-regional-017-2017-grl-cr/` | Ordenanza Regional N° 017-2017-GRL-CR: Ordenanza que aprueba la Constitución de la "Mancomunidad Regional Macro Región Nor Oriente del Perú" | in force 9 June 2017 |
+| `ordenanza-regional-020-2012-grl-cr/` | Ordenanza Regional N° 020-2012-GRL-CR: Declaran de interés público y necesidad regional, el manejo y uso responsable de los recursos pesqueros amazónicos de con… | in force 23 December 2012 |
+| `ordenanza-regional-016-2011-grl-cr/` | Ordenanza Regional N° 016-2011-GRL-CR: Modifican Reglamento Interno del Consejo Regional de Loreto | in force 2 April 2012 |
+| `ordenanza-regional-001-2012-grl-cr/` | Ordenanza Regional N° 001-2012-GRL-CR: Aprueban la propuesta del Area de Conservación Regional Maijuna | in force 1 April 2012 |
+| `ordenanza-regional-008-2011-grl-cr/` | Ordenanza Regional N° 008-2011-GRL-CR: Aprueban Plan de Reestructuración de Deudas e Incentivos de Loreto - PREDIL | in force 21 August 2011 |
+| `ordenanza-regional-005-2011-grl-cr/` | Ordenanza Regional N° 005-2011-GRL-CR: Aprueban las "Medidas de formalización del sector forestal para la lucha contra la tala y comercialización ilegal de made… | in force 15 July 2011 |
+| `ordenanza-regional-006-2011-grl-cr/` | Ordenanza Regional N° 006-2011-GRL-CR: Declaran al departamento de Loreto como región libre de cultivos genéticamente modificados (transgénicos) | in force 15 July 2011 |
+| `ordenanza-regional-016-2009-grl-cr/` | Ordenanza Regional N° 016-2009-GRL-CR: Declaran de importancia regional la candidatura del Río Amazonas/Bosque Tropical en el concurso Las Siete Maravillas Natu… | in force 1 October 2009 |
+| `ordenanza-regional-014-2009-grl-cr/` | Ordenanza Regional N° 014-2009-GRL-CR: Modifican la Ordenanza Regional N° 009-2008-GRL-CR, sobre creación del Organismo Público Infraestructura para la Producti… | in force 23 August 2009 |
+| `ordenanza-regional-012-2009-grl-cr/` | Ordenanza Regional N° 012-2009-GRL-CR: Declaran como prioridad del Gobierno Regional promover el derecho a la salud, educación y a la vida mediante acciones de … | in force 8 August 2009 |
+| `ordenanza-regional-011-2009-grl-cr/` | Ordenanza Regional N° 011-2009-GRL-CR: Modifican la Ordenanza Regional N° 009-2006-CR/GRL, sobre creación del Programa de Conservación, Gestión y Uso Sostenible… | in force 28 June 2009 |
+| `ordenanza-regional-009-2009-grl-cr/` | Ordenanza Regional N° 009-2009-GRL-CR: Modifican la Ordenanza Regional N° 018-2008-GRL-CR y establecen disposiciones para el uso de Formulario para la Declaraci… | in force 20 June 2009 |
+| `ordenanza-regional-007-2009-grl-cr/` | Ordenanza Regional N° 007-2009-GRL-CR: Aprueban la creación de la Entidad Técnica Regional como Órgano de la Dirección Regional de Vivienda, Construcción y Sane… | in force 4 June 2009 |
 
 ## Source
 

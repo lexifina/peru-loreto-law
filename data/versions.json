@@ -1218,6 +1218,258 @@
      "sha256": "6885f8f7f25e70be61f8722627f2e51a777baa554e87e118fdc2861734e5f2f4"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-020-2019-grl-cr",
+   "short": "Ordenanza Regional N° 020-2019-GRL-CR",
+   "title": "Ordenanza Regional N° 020-2019-GRL-CR: Modifican la conformación del Grupo Técnico Regional de Humedales de Loreto",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1842992-1",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8Kvnc_JDa1cA6cxw_IezCt/*/1842992-1.pdf",
+     "sha256": "2fd8e11bac34013731e4c90e992dd3ea9586b03864afe14d13bd2b203477a702"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-019-2019-grl-cr",
+   "short": "Ordenanza Regional N° 019-2019-GRL-CR",
+   "title": "Ordenanza Regional N° 019-2019-GRL-CR: Ordenanza que aprueba la Constitución de la \"Mancomunidad Regional Amazónica\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1841050-1",
+   "versions": [
+    {
+     "from": "2019-12-29",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6r0NoSbHaZH9sgJ1kcLMq-/*/1841050-1.pdf",
+     "sha256": "d3fb92d69614459805c05a43930b419fa77206c29474c6f0f572345d78a64ea7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2019-grl-cr",
+   "short": "Ordenanza Regional N° 011-2019-GRL-CR",
+   "title": "Ordenanza Regional N° 011-2019-GRL-CR: Ordenanza Regional que ratifica el \"Plan de Acción Regional de Seguridad Ciudadana - Loreto 2019\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1797205-1",
+   "versions": [
+    {
+     "from": "2019-08-15",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CfE9AFpmKEC8tHIlp4MceN/*/1797205-2.pdf",
+     "sha256": "35487d262b68841b6954ac203638b6e563f9cb8d2e2c4e7383ea0f287a5c6aaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-006-2019-grl-cr",
+   "short": "Ordenanza Regional N° 006-2019-GRL-CR",
+   "title": "Ordenanza Regional N° 006-2019-GRL-CR: Aprueban la Ordenanza Regional para creación y conformación de la instancia regional de concertación intergubernamental e intersectorial contra la violencia de género de Loreto",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1784656-1",
+   "versions": [
+    {
+     "from": "2019-07-04",
+     "units": 10,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/ADpuCTf24vr9pdjQUgj9kx/*/1784656-1.pdf",
+     "sha256": "da27653967856bdcabbb5d29d19802d7b85c479478e50f25c6f62de42abe3caa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-027-2018-grl-cr",
+   "short": "Ordenanza Regional N° 027-2018-GRL-CR",
+   "title": "Ordenanza Regional N° 027-2018-GRL-CR: Aprueban Cuadro para Asignación de Personal - CAP Provisional de la Dirección Regional de Salud Loreto, sus diversas Redes de Salud y los Hospitales Apoyo Iquitos, Regional de Loreto y Santa Gema de Yurimaguas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1706870-1",
+   "versions": [
+    {
+     "from": "2018-10-28",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0-xL5KFYad-B4_ZKUXfWs5/*/1706870-1.pdf",
+     "sha256": "61143dec20cd319e537ebb3a327f62785b0a6ffedc0a3090c6681dc390b7c47c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-017-2017-grl-cr",
+   "short": "Ordenanza Regional N° 017-2017-GRL-CR",
+   "title": "Ordenanza Regional N° 017-2017-GRL-CR: Ordenanza que aprueba la Constitución de la \"Mancomunidad Regional Macro Región Nor Oriente del Perú\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1529503-1",
+   "versions": [
+    {
+     "from": "2017-06-09",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DC_x8ZS9KCkAKbiL-Tnv1n/*/1529503-1.pdf",
+     "sha256": "94be5c9b81e966f9c0e4e3bc7034cf446c872d98bc1f95d3849b7a84c631ac84"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-020-2012-grl-cr",
+   "short": "Ordenanza Regional N° 020-2012-GRL-CR",
+   "title": "Ordenanza Regional N° 020-2012-GRL-CR: Declaran de interés público y necesidad regional, el manejo y uso responsable de los recursos pesqueros amazónicos de consumo humano directo, fomentando la pesca y el desarrollo de la acuicultura responsable",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/880831-1",
+   "versions": [
+    {
+     "from": "2012-12-23",
+     "units": 15,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2GkjK65uqFr9KHalpWX5VI/*/880831-1.pdf",
+     "sha256": "c935b3bb5bc0d4989b852f233ed4f0b4a9bb1f6f0a375f9e719a03af1dc8de76"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-016-2011-grl-cr",
+   "short": "Ordenanza Regional N° 016-2011-GRL-CR",
+   "title": "Ordenanza Regional N° 016-2011-GRL-CR: Modifican Reglamento Interno del Consejo Regional de Loreto",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/771446-1",
+   "versions": [
+    {
+     "from": "2012-04-02",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9371vGZWaqL8AyCgcmkGtg/*/771446-1.pdf",
+     "sha256": "81d0d8e8eb7ba8d9200cca8ddc7f3323f8fc25b0788a113a16709ea59a99e337"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2012-grl-cr",
+   "short": "Ordenanza Regional N° 001-2012-GRL-CR",
+   "title": "Ordenanza Regional N° 001-2012-GRL-CR: Aprueban la propuesta del Area de Conservación Regional Maijuna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/771026-1",
+   "versions": [
+    {
+     "from": "2012-04-01",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4Tv9tFU6KVv9EFHjRdvmfE/*/771026-1.pdf",
+     "sha256": "6a1844ab58927c3e4dcddb930cda73307e8a8ce8e4920de265a332b49930ab66"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-008-2011-grl-cr",
+   "short": "Ordenanza Regional N° 008-2011-GRL-CR",
+   "title": "Ordenanza Regional N° 008-2011-GRL-CR: Aprueban Plan de Reestructuración de Deudas e Incentivos de Loreto - PREDIL",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/679557-1",
+   "versions": [
+    {
+     "from": "2011-08-21",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/790hCcP34CpBj5oC5Elion/*/679557-1.pdf",
+     "sha256": "363199b880bf6b9402a4b6dbc0c70264f37e47cb2b7c147d442416be77c03d84"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-005-2011-grl-cr",
+   "short": "Ordenanza Regional N° 005-2011-GRL-CR",
+   "title": "Ordenanza Regional N° 005-2011-GRL-CR: Aprueban las \"Medidas de formalización del sector forestal para la lucha contra la tala y comercialización ilegal de madera en la Región Loreto\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/664255-2",
+   "versions": [
+    {
+     "from": "2011-07-15",
+     "units": 21,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5YjWrp-hqdz8yUL9-f8KvC/*/664255-2.pdf",
+     "sha256": "be7c5ab6a116122771368c1cde1c76aa5630cc87707f44d16f278dd860ae2bc6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-006-2011-grl-cr",
+   "short": "Ordenanza Regional N° 006-2011-GRL-CR",
+   "title": "Ordenanza Regional N° 006-2011-GRL-CR: Declaran al departamento de Loreto como región libre de cultivos genéticamente modificados (transgénicos)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/664255-3",
+   "versions": [
+    {
+     "from": "2011-07-15",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/F3ypF9A74NJAVuRVJhMRlA/*/664255-3.pdf",
+     "sha256": "754a39cafa16d0b2176e2c9b9419a577556611849ef31abe3076aabbb9b8f99a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-016-2009-grl-cr",
+   "short": "Ordenanza Regional N° 016-2009-GRL-CR",
+   "title": "Ordenanza Regional N° 016-2009-GRL-CR: Declaran de importancia regional la candidatura del Río Amazonas/Bosque Tropical en el concurso Las Siete Maravillas Naturales del Mundo",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/402917-1",
+   "versions": [
+    {
+     "from": "2009-10-01",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5kdo6Tb04bW8WDH7rbT02F/*/402917-3.pdf",
+     "sha256": "b9a77287c9aabed90584d3734bc6c92d674d48f6290e98ae57a3a10350bc20aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-014-2009-grl-cr",
+   "short": "Ordenanza Regional N° 014-2009-GRL-CR",
+   "title": "Ordenanza Regional N° 014-2009-GRL-CR: Modifican la Ordenanza Regional N° 009-2008-GRL-CR, sobre creación del Organismo Público Infraestructura para la Productividad - OPIPP",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/387064-1",
+   "versions": [
+    {
+     "from": "2009-08-23",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2-wKPMsia1D93Lqv2eMRHT/*/387064-1.pdf",
+     "sha256": "e6a1ece92c1a447ce47109a87c5d2ce43e8d9ea694dc03e0651635f5104fcbbe"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-012-2009-grl-cr",
+   "short": "Ordenanza Regional N° 012-2009-GRL-CR",
+   "title": "Ordenanza Regional N° 012-2009-GRL-CR: Declaran como prioridad del Gobierno Regional promover el derecho a la salud, educación y a la vida mediante acciones de promoción, prevención, recuperación, rehabilitación y acceso de los y las adolescentes a servicios de Salud Sexual y Reproductiva, con énfas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/379795-1",
+   "versions": [
+    {
+     "from": "2009-08-08",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/35EmrLSQ4pBAkVu77no82G/*/379795-1.pdf",
+     "sha256": "0f47b392c21f857ef101b1a3786b86cb190aa5a9316a4158c4ddef57d38e7826"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2009-grl-cr",
+   "short": "Ordenanza Regional N° 011-2009-GRL-CR",
+   "title": "Ordenanza Regional N° 011-2009-GRL-CR: Modifican la Ordenanza Regional N° 009-2006-CR/GRL, sobre creación del Programa de Conservación, Gestión y Uso Sostenible de la Diversidad Biológica de Loreto - PROCREL",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/365303-1",
+   "versions": [
+    {
+     "from": "2009-06-28",
+     "units": 11,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4zuGrH08KvD84vbi7e30sx/*/365303-1.pdf",
+     "sha256": "c04e55661c5a6341e12159dfc178e45d4ddfc05e8d596be076aba7848ea84193"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-009-2009-grl-cr",
+   "short": "Ordenanza Regional N° 009-2009-GRL-CR",
+   "title": "Ordenanza Regional N° 009-2009-GRL-CR: Modifican la Ordenanza Regional N° 018-2008-GRL-CR y establecen disposiciones para el uso de Formulario para la Declaración de Impacto Ambiental (DIA) de la Actividad de Rehabilitación de Mamíferos Acuáticos Amazónicos en Cautiverio  - Centros de Rescate",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/361885-1",
+   "versions": [
+    {
+     "from": "2009-06-20",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Bjx1aiBG4IB8OvlwY5dO24/*/361885-1.pdf",
+     "sha256": "033d6bac9f769ba107efca89bdef17d72326e172aaf94f2c1f21884ef6a6ee10"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-007-2009-grl-cr",
+   "short": "Ordenanza Regional N° 007-2009-GRL-CR",
+   "title": "Ordenanza Regional N° 007-2009-GRL-CR: Aprueban la creación de la Entidad Técnica Regional como Órgano de la Dirección Regional de Vivienda, Construcción y Saneamiento de Loreto",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/355404-1",
+   "versions": [
+    {
+     "from": "2009-06-04",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/09LkP1WO4rq8-ebVpFVKMG/*/355404-1.pdf",
+     "sha256": "117bc43c30bdc1ed776676232ffb63e3c907ed187b5929c818e3ee65cc8b91a4"
+    }
+   ]
   }
  ]
 }

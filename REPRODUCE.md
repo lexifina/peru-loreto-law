@@ -101,20 +101,38 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-005-2016-grl-cr` | Ordenanza Regional N° 005-2016-GRL-CR: Aprueban Convocatoria de Audiencia Pública Regional de Rendición de Cuentas, II Semestre Año Fiscal 2015 | 1 | 2016-03-09 to 2016-03-09 |
 | `ordenanza-regional-012-2015-grl-cr` | Ordenanza Regional N° 012-2015-GRL-CR: Aprueban creación de la Autoridad Regional Ambiental de Loreto - ARA LORETO | 1 | 2015-11-14 to 2015-11-14 |
 | `ordenanza-regional-009-2007-grl-cr` | Ordenanza Regional N° 009-2007-GRL-CR: Aprueban modificación del TUPA del Gobierno Regional de Loreto | 1 | 2007-05-08 to 2007-05-08 |
+| `ordenanza-regional-020-2019-grl-cr` | Ordenanza Regional N° 020-2019-GRL-CR: Modifican la conformación del Grupo Técnico Regional de Humedales de Loreto | 1 | 2020-01-08 to 2020-01-08 |
+| `ordenanza-regional-019-2019-grl-cr` | Ordenanza Regional N° 019-2019-GRL-CR: Ordenanza que aprueba la Constitución de la "Mancomunidad Regional Amazónica" | 1 | 2019-12-29 to 2019-12-29 |
+| `ordenanza-regional-011-2019-grl-cr` | Ordenanza Regional N° 011-2019-GRL-CR: Ordenanza Regional que ratifica el "Plan de Acción Regional de Seguridad Ciudadana - Loreto 2019" | 1 | 2019-08-15 to 2019-08-15 |
+| `ordenanza-regional-006-2019-grl-cr` | Ordenanza Regional N° 006-2019-GRL-CR: Aprueban la Ordenanza Regional para creación y conformación de la instancia regional de concertación intergubernamental e intersectorial contra la violencia de género de Loreto | 1 | 2019-07-04 to 2019-07-04 |
+| `ordenanza-regional-027-2018-grl-cr` | Ordenanza Regional N° 027-2018-GRL-CR: Aprueban Cuadro para Asignación de Personal - CAP Provisional de la Dirección Regional de Salud Loreto, sus diversas Redes de Salud y los Hospitales Apoyo Iquitos, Regional de Loreto y Santa Gema de Yurimaguas | 1 | 2018-10-28 to 2018-10-28 |
+| `ordenanza-regional-017-2017-grl-cr` | Ordenanza Regional N° 017-2017-GRL-CR: Ordenanza que aprueba la Constitución de la "Mancomunidad Regional Macro Región Nor Oriente del Perú" | 1 | 2017-06-09 to 2017-06-09 |
+| `ordenanza-regional-020-2012-grl-cr` | Ordenanza Regional N° 020-2012-GRL-CR: Declaran de interés público y necesidad regional, el manejo y uso responsable de los recursos pesqueros amazónicos de consumo humano directo, fomentando la pesca y el desarrollo de la acuicultura responsable | 1 | 2012-12-23 to 2012-12-23 |
+| `ordenanza-regional-016-2011-grl-cr` | Ordenanza Regional N° 016-2011-GRL-CR: Modifican Reglamento Interno del Consejo Regional de Loreto | 1 | 2012-04-02 to 2012-04-02 |
+| `ordenanza-regional-001-2012-grl-cr` | Ordenanza Regional N° 001-2012-GRL-CR: Aprueban la propuesta del Area de Conservación Regional Maijuna | 1 | 2012-04-01 to 2012-04-01 |
+| `ordenanza-regional-008-2011-grl-cr` | Ordenanza Regional N° 008-2011-GRL-CR: Aprueban Plan de Reestructuración de Deudas e Incentivos de Loreto - PREDIL | 1 | 2011-08-21 to 2011-08-21 |
+| `ordenanza-regional-005-2011-grl-cr` | Ordenanza Regional N° 005-2011-GRL-CR: Aprueban las "Medidas de formalización del sector forestal para la lucha contra la tala y comercialización ilegal de madera en la Región Loreto" | 1 | 2011-07-15 to 2011-07-15 |
+| `ordenanza-regional-006-2011-grl-cr` | Ordenanza Regional N° 006-2011-GRL-CR: Declaran al departamento de Loreto como región libre de cultivos genéticamente modificados (transgénicos) | 1 | 2011-07-15 to 2011-07-15 |
+| `ordenanza-regional-016-2009-grl-cr` | Ordenanza Regional N° 016-2009-GRL-CR: Declaran de importancia regional la candidatura del Río Amazonas/Bosque Tropical en el concurso Las Siete Maravillas Naturales del Mundo | 1 | 2009-10-01 to 2009-10-01 |
+| `ordenanza-regional-014-2009-grl-cr` | Ordenanza Regional N° 014-2009-GRL-CR: Modifican la Ordenanza Regional N° 009-2008-GRL-CR, sobre creación del Organismo Público Infraestructura para la Productividad - OPIPP | 1 | 2009-08-23 to 2009-08-23 |
+| `ordenanza-regional-012-2009-grl-cr` | Ordenanza Regional N° 012-2009-GRL-CR: Declaran como prioridad del Gobierno Regional promover el derecho a la salud, educación y a la vida mediante acciones de promoción, prevención, recuperación, rehabilitación y acceso de los y las adolescentes a servicios de Salud Sexual y Reproductiva, con énfas | 1 | 2009-08-08 to 2009-08-08 |
+| `ordenanza-regional-011-2009-grl-cr` | Ordenanza Regional N° 011-2009-GRL-CR: Modifican la Ordenanza Regional N° 009-2006-CR/GRL, sobre creación del Programa de Conservación, Gestión y Uso Sostenible de la Diversidad Biológica de Loreto - PROCREL | 1 | 2009-06-28 to 2009-06-28 |
+| `ordenanza-regional-009-2009-grl-cr` | Ordenanza Regional N° 009-2009-GRL-CR: Modifican la Ordenanza Regional N° 018-2008-GRL-CR y establecen disposiciones para el uso de Formulario para la Declaración de Impacto Ambiental (DIA) de la Actividad de Rehabilitación de Mamíferos Acuáticos Amazónicos en Cautiverio  - Centros de Rescate | 1 | 2009-06-20 to 2009-06-20 |
+| `ordenanza-regional-007-2009-grl-cr` | Ordenanza Regional N° 007-2009-GRL-CR: Aprueban la creación de la Entidad Técnica Regional como Órgano de la Dirección Regional de Vivienda, Construcción y Saneamiento de Loreto | 1 | 2009-06-04 to 2009-06-04 |
 
-The build made 87 commits:
+The build made 105 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 87 | first version of an act |
+| 105 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 87 laws in the record.
-- 174 tags.
+- 105 laws in the record.
+- 210 tags.
 
 ## Dates
 
@@ -126,13 +144,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `06e02e46be79c2a8907327118dcd2708ff30f0f87326568b098818ae7e6cef77` (1243867 bytes).
+- Corpus: sha256 `765d1d60f0099dfb5d99040ffe60707e897339c277cef2e4c715aa382b9a29f1` (1532849 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-87 versions of 87 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

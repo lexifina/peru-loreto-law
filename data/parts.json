@@ -106,6 +106,29 @@
     "ordenanza-regional-012-2016-grl-cr"
    ],
    "sha256": "27546733afb0faea25156becd5b907753ec67b779909752903652a1fb1eded92"
+  },
+  "33-runner-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2012-grl-cr",
+    "ordenanza-regional-005-2011-grl-cr",
+    "ordenanza-regional-006-2011-grl-cr",
+    "ordenanza-regional-006-2019-grl-cr",
+    "ordenanza-regional-007-2009-grl-cr",
+    "ordenanza-regional-008-2011-grl-cr",
+    "ordenanza-regional-009-2009-grl-cr",
+    "ordenanza-regional-011-2009-grl-cr",
+    "ordenanza-regional-011-2019-grl-cr",
+    "ordenanza-regional-012-2009-grl-cr",
+    "ordenanza-regional-014-2009-grl-cr",
+    "ordenanza-regional-016-2009-grl-cr",
+    "ordenanza-regional-016-2011-grl-cr",
+    "ordenanza-regional-017-2017-grl-cr",
+    "ordenanza-regional-019-2019-grl-cr",
+    "ordenanza-regional-020-2012-grl-cr",
+    "ordenanza-regional-020-2019-grl-cr",
+    "ordenanza-regional-027-2018-grl-cr"
+   ],
+   "sha256": "e103383bc1e96cba1d70d2dfeae8013f67db0bb5e7e028258b0157c02b81df7e"
   }
  },
  "schema": 1
