@@ -1,0 +1,112 @@
+{
+ "parts": {
+  "30-ordenanzas-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2020-grl-cr",
+    "ordenanza-regional-001-2021-grl-cr",
+    "ordenanza-regional-001-2025-grl-cr",
+    "ordenanza-regional-001-2026-grl-cr",
+    "ordenanza-regional-0012024grl-cr",
+    "ordenanza-regional-002-2021-grl-cr",
+    "ordenanza-regional-003-2022-grl-cr",
+    "ordenanza-regional-003-grl-cr",
+    "ordenanza-regional-004-2021-grl-cr",
+    "ordenanza-regional-005-2021-grl-cr",
+    "ordenanza-regional-006-2020-grl-cr",
+    "ordenanza-regional-006-2022-grl-cr",
+    "ordenanza-regional-007-2019-grl-cr",
+    "ordenanza-regional-007-2020-grl-cr",
+    "ordenanza-regional-007-2021-grl-cr",
+    "ordenanza-regional-007-2022-grl-cr",
+    "ordenanza-regional-008-2020-grl-cr",
+    "ordenanza-regional-008-2021-grl-cr",
+    "ordenanza-regional-008-2025-grl-cr",
+    "ordenanza-regional-009-2019-grl-cr",
+    "ordenanza-regional-009-2020-grl-cr",
+    "ordenanza-regional-009-2021-grl-cr",
+    "ordenanza-regional-010-2020-grl-cr",
+    "ordenanza-regional-010-2021-grl-cr",
+    "ordenanza-regional-010-2025-grl-cr",
+    "ordenanza-regional-011-2020-grl-cr",
+    "ordenanza-regional-011-2021-grl-cr",
+    "ordenanza-regional-012-2021-grl-cr",
+    "ordenanza-regional-013-2021-grl-cr",
+    "ordenanza-regional-013-2024-grl-cr",
+    "ordenanza-regional-013-2025-grl-cr",
+    "ordenanza-regional-014-2020-grl-cr",
+    "ordenanza-regional-014-2026-grl-cr",
+    "ordenanza-regional-015-2020-grl-cr",
+    "ordenanza-regional-016-2019-grl-cr",
+    "ordenanza-regional-016-2020-grl-cr",
+    "ordenanza-regional-017-2019-grl-cr",
+    "ordenanza-regional-017-2020-grl-cr",
+    "ordenanza-regional-018-2020-grl-cr",
+    "ordenanza-regional-020-2024-grl-cr",
+    "ordenanza-regional-04-2022-grl-cr",
+    "ordenanza-regional-ordenanza-regional"
+   ],
+   "sha256": "4c563b33e84383cbb62609777bdf9dec2e0d6b1833092f772c92a61749c1bfd6"
+  },
+  "31-recuperadas-01.json": {
+   "acts": [
+    "ordenanza-regional-004-2020-grl-cr",
+    "ordenanza-regional-006-2021-grl-cr",
+    "ordenanza-regional-014-2021-grl-cr"
+   ],
+   "sha256": "cec783bd458c3421d0289ecbed5048dbfdd89b8b87171e97d1ed48f45d3da093"
+  },
+  "32-anteriores-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2016-grl-cr",
+    "ordenanza-regional-003-2016-grl-cr",
+    "ordenanza-regional-003-2017-grl-cr",
+    "ordenanza-regional-004-2019-grl-cr",
+    "ordenanza-regional-005-2017-grl-cr",
+    "ordenanza-regional-005-2020-grl-cr",
+    "ordenanza-regional-007-2018-grl-cr",
+    "ordenanza-regional-008-2018-grl-cr",
+    "ordenanza-regional-008-2019-grl-cr",
+    "ordenanza-regional-010-2016-grl-cr",
+    "ordenanza-regional-010-2018-grl-cr",
+    "ordenanza-regional-010-2019-grl-cr",
+    "ordenanza-regional-011-2016-grl-cr",
+    "ordenanza-regional-012-2019-grl-cr",
+    "ordenanza-regional-014-2017-grl-cr",
+    "ordenanza-regional-014-2019-grl-cr",
+    "ordenanza-regional-016-2017-grl-cr",
+    "ordenanza-regional-018-2019-grl-cr",
+    "ordenanza-regional-019-2016-grl-cr",
+    "ordenanza-regional-021-2019-grl-cr",
+    "ordenanza-regional-022-2016-grl-cr",
+    "ordenanza-regional-022-2017-grl-cr",
+    "ordenanza-regional-022-2019-grl-cr",
+    "ordenanza-regional-023-2017-grl-cr",
+    "ordenanza-regional-023-2019-grl-cr",
+    "ordenanza-regional-024-2016-grl-cr",
+    "ordenanza-regional-024-2019-grl-cr",
+    "ordenanza-regional-026-2016-grl-cr",
+    "ordenanza-regional-026-2017-grl-cr",
+    "ordenanza-regional-027-2016-grl-cr",
+    "ordenanza-regional-029-2018-grl-cr",
+    "ordenanza-regional-030-2018-grl-cr",
+    "ordenanza-regional-032-2018-grl-cr"
+   ],
+   "sha256": "e3fba1d3f6269ef348024295b49f0e8e5dd661694fce3e496857a65a8cea4002"
+  },
+  "32-anteriores-02.json": {
+   "acts": [
+    "ordenanza-regional-004-2016-grl-cr",
+    "ordenanza-regional-005-2016-grl-cr",
+    "ordenanza-regional-006-2016-grl-cr",
+    "ordenanza-regional-007-2016-grl-cr",
+    "ordenanza-regional-008-2016-grl-cr",
+    "ordenanza-regional-009-2007-grl-cr",
+    "ordenanza-regional-009-2016-grl-cr",
+    "ordenanza-regional-012-2015-grl-cr",
+    "ordenanza-regional-012-2016-grl-cr"
+   ],
+   "sha256": "27546733afb0faea25156becd5b907753ec67b779909752903652a1fb1eded92"
+  }
+ },
+ "schema": 1
+}
