@@ -1,0 +1,11 @@
+{
+  "path": "pe-lor",
+  "code": "PE-LOR",
+  "name": "Loreto",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-loreto-law",
+  "build": "built: 87 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}

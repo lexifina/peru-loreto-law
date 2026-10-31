@@ -1,0 +1,12 @@
+# Ordenanza Regional N° 010-2016-GRL-CR: Aprueban el Mosaico de Imágenes de Satélite LandSat 8 y Mapa Base del departamento Loreto, para el proceso de ordenamiento territorial
+
+Ordenanza Regional N° 010-2016-GRL-CR · 1 versions, from 2016-09-22 (latest in force: 2016-09-22) · <https://busquedas.elperuano.pe/dispositivo/NL/1430376-4>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artículo 1 | [art-001.md](art-001.md) | 0 |  |
+| Artículo 2 | [art-002.md](art-002.md) | 0 |  |
+| Artículo 3 | [art-003.md](art-003.md) | 0 |  |
+| Artículo 4 | [art-004.md](art-004.md) | 0 |  |
+| Artículo 5 | [art-005.md](art-005.md) | 0 |  |
+| Encabezado | [encabezado.md](encabezado.md) | 0 |  |
